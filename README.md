@@ -4,7 +4,11 @@
 ##Objective:Analyze job trends, salaries, and hiring patterns in the data analytics field.
 
 
-### cleaned Dataset: Extracted from job portals (CSV format) downloade here :(https://github.com/Sonu25747/Data-Analyst-Jobs-Project)
+### 1. Dataset :Extracted from job portals (CSV format) download here :(https://github.com/Sonu25747/Data-Analyst-Jobs-Project)
+
+
+    2.cleaned Dataset: Extracted from job portals (CSV format) download here :(https://github.com/Sonu25747/Data-Analyst-Jobs-Project)
+
 
    
 ####Data visualization
